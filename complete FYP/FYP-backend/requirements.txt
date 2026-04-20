@@ -1,0 +1,19 @@
+# Web Frameworks
+fastapi
+flask
+flask-cors
+uvicorn
+python-multipart
+
+# Database (PostgreSQL)
+sqlalchemy
+psycopg2-binary
+
+# AI & Data Science
+tensorflow
+numpy
+pandas
+Pillow
+
+# Security
+passlib[bcrypt]
